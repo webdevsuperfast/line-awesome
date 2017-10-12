@@ -1,5 +1,5 @@
 {
-  "name": "line-awesome",
+  "name": "lineawesome",
   "version": "0.9.1",
   "description": "Line awesome icons pack",
   "license": "MIT",
@@ -12,5 +12,14 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/icons8/line-awesome.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/icons8/line-awesome/issues"
+  },
+  "homepage": "https://github.com/icons8/line-awesome#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rotsen Mark Acob"
 }
