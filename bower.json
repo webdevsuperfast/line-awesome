@@ -1,0 +1,23 @@
+{
+  "name": "lineawesome",
+  "description": "Line awesome icons pack",
+  "main": "index.js",
+  "authors": [
+    "Rotsen Mark Acob"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "font",
+    "awesome",
+    "icons",
+    "icons8"
+  ],
+  "homepage": "https://github.com/webdevsuperfast/lineawesome",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
